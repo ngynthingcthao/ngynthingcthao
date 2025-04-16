@@ -4,8 +4,10 @@ Kho lưu trữ này bao gồm mã nguồn của các bài tập trong khóa họ
 ┏ 🎍Tuần 1  
 ┃ ┏ 🌞 Tạo Github repos  
 ┃ ┗ 🌝 Bài thực hành 01  
-┣ 🎄Tuần 2  
+┣ 🎄Tuần 2
+┃  ┣🌞 Bài thực hành 02 
 ┣ 🌱Tuần 3  
+┃   ┣🌞 Bài thực hành 03 
 ┣ 🌵Tuần 4  
 ┗ 🐾...
 ## 🍻Thông tin liên hệ
